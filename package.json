@@ -1,0 +1,29 @@
+{
+  "name": "GymBadge",
+  "version": "1.0.0",
+  "description": "A gym badge progress checker for Pokémon Go",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QOAL/GymBadge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/QOAL/GymBadge/issues"
+  },
+  "homepage": "https://github.com/QOAL/GymBadge#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "puppeteer": "^0.12.0"
+  },
+  "private": true
+}
